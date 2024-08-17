@@ -1,3 +1,2 @@
 # Laboratorio1
-Ejercicio de Programacion Orientada a Eventos
-los realize yo solo me falto 1 ya que se me complico y me estrese :( 
+Ejercicios de Programación Orientada a Eventos los realize por mi cuenta, pero no pude completar uno ya que me estrese por que no lo podia realizar :(
